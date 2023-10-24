@@ -50,13 +50,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Abuot
-    url:               /example/
+    url:               /JAVA/
   - title:             Study
     url:               /docs/
-  - title:             Project
-    url:               /about/
+  - title:             Dev. Log
+    url:               /Dev. Log/  
   - title:             Life
-    url:               /life/
+    url:               /Life/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
