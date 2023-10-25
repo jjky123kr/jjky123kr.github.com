@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: Life
-slug: devlog
+slug: life
 sidebar: true
 order: 5
 description: >

@@ -1,8 +1,8 @@
 ---
 layout: list
 type: category
-title: Frontend.Dev.Log
-slug: Frontend.Dev.Log
+title: Frontend_Dev.Log
+slug: Frontend
 sidebar: true
 order: 4
 description: >
