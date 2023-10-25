@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: CSS
-slug: css
+title: JavaScript
+slug: javaScript
 category: Frontend
 sidebar: true
-order: 2
+order: 3
 description: >
    Algorithm study / Problem solutions
 ---
