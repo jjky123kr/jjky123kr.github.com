@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Life
-slug: life
+title: Error.Log
+slug: error
 sidebar: true
-order: 6
+order: 5
 description: >
   Anything about development
 ---

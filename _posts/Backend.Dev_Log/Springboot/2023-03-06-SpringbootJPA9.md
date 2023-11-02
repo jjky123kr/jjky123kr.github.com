@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title:  Spring boot JPA 연습 2
 category: Backend_Dev.Log
 tags: Springboot
