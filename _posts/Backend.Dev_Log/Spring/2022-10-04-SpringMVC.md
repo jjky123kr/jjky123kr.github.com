@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Spring MVC 패턴예제1
 category: Backend_Dev.Log
 tags: Spring

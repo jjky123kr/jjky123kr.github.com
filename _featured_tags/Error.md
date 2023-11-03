@@ -3,9 +3,9 @@ layout: tag-list
 type: tag
 title: Error
 slug: error
-category: Error.Log
+category: error
 sidebar: true
-order: 1
+order: 5
 description: >
    Algorithm study / Problem solutions
 ---

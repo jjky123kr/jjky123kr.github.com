@@ -51,8 +51,8 @@ author:
 menu:
   - title:             Abuot
     url:               /JAVA/
-  - title:             Study
-    url:               /docs/
+  - title:             Project
+    url:               /project/
   - title:             Dev. Log
     url:               /Dev. Log/  
   - title:             Life
@@ -195,7 +195,7 @@ hydejack:
   project_addons:      [about, newsletter, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    false
+  no_mark_external:    true
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false

@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Error.Log
+title: Error_Log
 slug: error
 sidebar: true
 order: 5
 description: >
-  Anything about development
+  Error_ Log
 ---
