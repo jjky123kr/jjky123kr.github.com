@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Backend_Dev.Log
-slug: Backend_Dev.Log
+title: BackendDev.Log  
+slug: Backend  
 sidebar: true
 order: 3
 description: >
-  Anything about development
+  Anything about Backend
 ---

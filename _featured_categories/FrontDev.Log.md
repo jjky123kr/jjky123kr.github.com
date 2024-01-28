@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Frontend_Dev.Log
+title: FrontendDev.Log
 slug: Frontend
 sidebar: true
 order: 4
 description: >
-  Anything about development
+  Anything about Frontend
 ---

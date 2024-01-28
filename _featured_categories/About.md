@@ -1,10 +1,10 @@
 ---
 layout: list
 type: category
-title: Error_Log
-slug: error
+title: About
+slug: about  
 sidebar: true
-order: 5
+order: 1
 description: >
-  Error_ Log
+  Anything about 
 ---
