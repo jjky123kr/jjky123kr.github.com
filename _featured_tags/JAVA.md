@@ -3,7 +3,7 @@ layout: tag-list
 type: tag
 title: JAVA
 slug: java
-category: Backend_Dev.Log
+category: Backend 
 sidebar: true
 order: 1
 description: >
