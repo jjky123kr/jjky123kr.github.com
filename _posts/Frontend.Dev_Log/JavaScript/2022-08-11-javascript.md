@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript
+title: Javascript 개념 과 특징
 category: Frontend
 tags: javaScript
 ---
