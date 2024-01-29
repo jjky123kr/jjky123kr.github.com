@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring  web sock (채팅 기능)
-category: Backend_Dev.Log
+category: Backend
 tags: Spring
 ---
 # Spring web sock (채팅 기능)

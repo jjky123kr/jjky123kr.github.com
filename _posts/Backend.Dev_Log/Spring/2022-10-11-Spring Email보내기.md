@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Email 보내기 
-category: Backend_Dev.Log
+category: Backend
 tags: Spring
 ---
 # Spring Email 보내기

@@ -2,7 +2,7 @@
 layout: post
 title: Spring My Batis 연동 예제 1
 folder: "spring"
-category: Backend_Dev.Log
+category: Backend
 tags: Spring
 ---
 # Spring My Batis 연동 예제 1

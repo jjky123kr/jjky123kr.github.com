@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Mybatis 연동 예제2
-category: Backend_Dev.Log
+category: Backend
 tags: Spring
 ---
 # Spring Mybatis 연동 예제2

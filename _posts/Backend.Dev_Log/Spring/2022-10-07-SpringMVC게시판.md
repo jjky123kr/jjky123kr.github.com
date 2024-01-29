@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring MVC 게시판 실습
-category: Backend_Dev.Log
+category: Backend
 tags: Spring
 ---
 # Spring MVC 게시판 실습
