@@ -55,9 +55,6 @@ menu:
     url:               /archives/
   - title:             BackDev.Log  
     url:               /BackDev.Log/
-    submenu:
-      - title:         Spring
-        url:           /spring/
   - title:             FrontDev.Log
     url:               /FrontDev.Log/
   - title:             Algorithm
