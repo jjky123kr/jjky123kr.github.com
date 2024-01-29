@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: Springboot
-slug: Springboot
+slug: springboot
 category: Backend 
 sidebar: true
 order: 3

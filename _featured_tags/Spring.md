@@ -2,7 +2,7 @@
 layout: tag-list
 type: tag
 title: Spring
-slug: Spring
+slug: spring
 category: Backend 
 sidebar: true
 order: 2
