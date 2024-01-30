@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Spring MVC 게시판 실습
-category: Backend
-tags: Spring
+related_posts:
+  - /backdev-log/spring/spring_7/
+title: Spring MVC 게시판
+categories: 
+  - backdev-log
+  - spring
 ---
-# Spring MVC 게시판 실습
 
 ### Data source Management 추가
 <img width="236" alt="7" src="https://user-images.githubusercontent.com/107549149/194455558-45b113ba-9555-4790-9529-5b03deb71fe1.png">

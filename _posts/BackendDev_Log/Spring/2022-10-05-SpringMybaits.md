@@ -1,11 +1,14 @@
 ---
 layout: post
-title: Spring My Batis 연동 예제 1
-folder: "spring"
-category: Backend
-tags: Spring
+related_posts:
+  - /backdev-log/spring/spring_6/
+title: SSpring My Batis 연동 하는 방법
+categories: 
+  - backdev-log
+  - spring
 ---
-# Spring My Batis 연동 예제 1
+
+
 ### Spring MVC 흐름
 <img width="583" alt="흐름" src="https://user-images.githubusercontent.com/107549149/193986855-c24e0c65-0eda-4914-97a0-aa51eb38bbfd.png">
 

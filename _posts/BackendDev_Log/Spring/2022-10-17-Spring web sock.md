@@ -1,10 +1,13 @@
 ---
 layout: post
-title: Spring  web sock (채팅 기능)
-category: Backend
-tags: Spring
+related_posts:
+  - /backdev-log/spring/spring_12/
+title: Spring web sock (채팅 기능)
+categories: 
+  - backdev-log
+  - spring
 ---
-# Spring web sock (채팅 기능)
+
 ### 프로젝트 구조 
 
 ### pom.xml 

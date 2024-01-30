@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Spring Email 보내기 
-category: Backend
-tags: Spring
+related_posts:
+  - /backdev-log/spring/spring_8/
+title: Spring Email 보내기
+categories: 
+  - backdev-log
+  - spring
 ---
-# Spring Email 보내기
+
+
 ### Mail Server 
 * windows: Exchange Server
 * Linux:SendMail,Qmail

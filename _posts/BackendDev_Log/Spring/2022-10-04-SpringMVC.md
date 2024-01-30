@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Spring MVC 패턴예제1
-category: Backend
-tags: Spring
+related_posts:
+  - /backdev-log/spring/spring_4/
+title: Spring MVC 패턴 1탄 
+categories: 
+  - backdev-log
+  - spring
 ---
-# Spring MVC 패턴예제1
+# Spring MVC 패턴
+
 ### Spring 흐름
 ![image](https://user-images.githubusercontent.com/107549149/192942110-db86f88d-6278-47a0-9118-c41ab32d2160.png){: width="500" height="500"}
  
