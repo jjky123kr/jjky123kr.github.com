@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts:
-  - /Archives/
+  - /archives/
 title: DI
 categories: 
   - archives
