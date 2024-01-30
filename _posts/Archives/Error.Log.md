@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Error 1"
-date:  
 categories: archives
 description: >
   '에러 발생 '
