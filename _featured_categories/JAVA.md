@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: CSS
-slug: css
-category: Frontend
+title: JAVA
+slug: java
+category: Backend 
 sidebar: true
-order: 2
+order: 1
 description: >
    Algorithm study / Problem solutions
 ---
