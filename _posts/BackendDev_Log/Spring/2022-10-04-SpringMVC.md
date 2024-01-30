@@ -7,7 +7,7 @@ categories:
   - backdev-log
   - spring
 ---
-# Spring MVC 패턴
+# Spring MVC 패턴 1탄 
 
 ### Spring 흐름
 ![image](https://user-images.githubusercontent.com/107549149/192942110-db86f88d-6278-47a0-9118-c41ab32d2160.png){: width="500" height="500"}

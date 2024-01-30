@@ -8,6 +8,7 @@ categories:
   - spring
 ---
 
+# Spring Email 보내기
 
 ### Mail Server 
 * windows: Exchange Server
