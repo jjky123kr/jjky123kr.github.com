@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Error 에러 발생 1
-categories: archives
-description: >
-  '에러 발생 '
+title:  Error creating bean with name 'entityManagerFactory' defined in class path resource
+categories: 
+  - aarchives
 ---
 
 # Error 에러 발생 1
