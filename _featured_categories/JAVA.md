@@ -1,11 +1,8 @@
 ---
-layout: tag-list
-type: tag
-title: JAVA
-slug: java
-category: Backend 
-sidebar: true
+layout: list
+title: JAVA  
+slug:  java
 order: 1
 description: >
-   Algorithm study / Problem solutions
+  Anything about Backend
 ---
