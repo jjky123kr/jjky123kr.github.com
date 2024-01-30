@@ -1,7 +1,7 @@
 ---
 layout: list
 title: BackendDev.Log  
-slug: Backend  
+slug: BackendDev.Log   
 order: 3
 description: >
   Anything about Backend

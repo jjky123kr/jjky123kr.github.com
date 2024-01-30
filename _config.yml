@@ -55,7 +55,7 @@ menu:
   - title:             Archives
     url:               /Archives/
   - title:             BackendDev.Log
-    url:               /backend/
+    url:               /BackendDev.Log/
     submenu: 
       - title:         Java
         url:           /java/
@@ -66,7 +66,7 @@ menu:
       - title:         Python
         url:           /python/
   - title:             FrontendDev.Log
-    url:               /frontend/
+    url:               /FrontendDev.Log/
     submenu:
       - title:         Html 
         url:           /html/
