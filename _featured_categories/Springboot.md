@@ -1,7 +1,7 @@
 ---
 layout: list 
-title: Spring boot
-slug: spring boot
+title: Springboot
+slug: springboot
 sidebar: true
 order: 3
 description: >
