@@ -1,10 +1,10 @@
 ---
 layout: post
-related_posts:
-  - /archives/
-title: DI
-categories: 
-  - archives
+title:  "Error 1"
+date:  
+categories: archives
+description: >
+  '에러 발생 '
 ---
 
 # Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init  에러 발생 
