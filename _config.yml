@@ -61,8 +61,8 @@ menu:
         url:           /java/
       - title:         Spring
         url:           /spring/
-      - title:         Spring boot
-        url:           /spring boot/
+      - title:         Springboot
+        url:           /springboot/
       - title:         Python
         url:           /python/
       - title:         API
