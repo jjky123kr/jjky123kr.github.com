@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts:
-  - /backdev-log/springboot/springboot_10/
+  - /backdev-log/springboot/springboot_12/
 title: Spring boot JPA 2탄
   - backdev-log
   - springboot
