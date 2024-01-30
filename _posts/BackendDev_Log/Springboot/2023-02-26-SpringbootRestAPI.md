@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  JSon을 사용하는 이유? 어떻게 사용할까?
-category: Backend_Dev.Log
-tags: Springboot
+related_posts:
+  - /backdev-log/Api/Api-3/
+title: HTTP1.1 무엇인가?
+categories: 
+  - backdev-log
+  - Api
 ---
 
-### Json 개념
+### Json을 사용하는 이유? 어떻게 사용할까?
 
 ### JSon을 사용하는 이유
 
