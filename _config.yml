@@ -53,7 +53,7 @@ menu:
   - title:             ABOUT
     url:               /about/
   - title:             Archives
-    url:               /Archives/
+    url:               /archives/
   - title:             BackendDev.Log
     url:               /backdev-log/
     submenu: 
