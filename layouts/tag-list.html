@@ -2,34 +2,25 @@
 layout: page
 ---
 
-{{ content }}
-{% assign documents = site.documents %}
-{% assign featured_categories = documents | where: "type", "category" | sort %}
-{% assign featured_tags = documents | where: "type", "tag" | sort %}
-{% assign categories = site.categories | sort %}
-{% assign tags = site.tags | sort %}
-{% for category in featured_categories %}
-  <h2 id="{{ category.slug }}" class="hr">
-    <a href="{{ category.url | relative_url }}">{{ category.title }}</a>
-    {% for site_category in categories %}
-      {% if site_category[0] == category.slug %}
-        <span class="faded fine">{{ site_category | last | size }}</span>
-      {% endif %}
-    {% endfor %}
-  </h2>
-  <ul class="related-posts">
-    {% for tag in featured_tags %}
-      {% if tag.category == category.slug %}
-        <li class="h6">
-          <a href="{{ tag.url | relative_url }}">{{ tag.title }}</a>
-          {% assign posts_with_tag = site.tags[tag.slug] %}
-          {% for post in posts_with_tag %}
-            <li>
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </li>
-          {% endfor %}
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-{% endfor %}
+{{ content }} {% assign tag = page %} {% assign documents = site.documents %} {%
+assign featured_categories = documents | where: "type", "category" | sort %} {%
+assign categories = site.categories | sort %} {% assign tags = site.tags | sort
+%} {% assign category_slug = tag.category %} {% assign tag_slug = tag.slug %}
+
+<h2 id="{{ tag_slug }}" class="hr">
+  <a href="{{ tag.url | relative_url }}">{{ tag.title }}</a>
+  {% for site_category in categories %} {% if site_category[0] == category_slug
+  %}
+  <span class="faded fine">{{ site_category | last | size }}</span>
+  {% endif %} {% endfor %}
+</h2>
+
+<ul class="related-posts">
+  {% for category in featured_categories %} {% if category.slug == category_slug
+  %} {% assign posts_with_tag = site.tags[tag_slug] %} {% for post in
+  posts_with_tag %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %} {% endif %} {% endfor %}
+</ul>
