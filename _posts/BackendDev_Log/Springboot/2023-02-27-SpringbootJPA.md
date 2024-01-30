@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Spring boot JPA , ORM 개념
-category: Backend_Dev.Log
-tags: Springboot
+related_posts:
+  - /backdev-log/
+title: Spring boot 에 연동 JPA , ORM 개념
+  - backdev-log
 ---
 
 # JPA 와 ORM
