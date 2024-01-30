@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Error creating bean with name 'entityManagerFactory' defined in class path resource
-categories: 
-  - aarchives
+title:  "JPA 데이터 베이스 연동 오류"
+categories: archives
+description: >
+  '에러 모음.'
 ---
-
 # Error 에러 발생 1
 
 ### Error creating bean with name 'entityManagerFactory' defined in class path resource
