@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  Spring boot JPA 연습 2
-category: Backend_Dev.Log
-tags: Springboot
+related_posts:
+  - /backdev-log/springboot/springboot_10/
+title: Spring boot JPA 2탄
+  - backdev-log
+  - springboot
 ---
-# Spring boot JPA 2
+# Spring boot JPA 2탄
 
 ### 매인 페이지 
 

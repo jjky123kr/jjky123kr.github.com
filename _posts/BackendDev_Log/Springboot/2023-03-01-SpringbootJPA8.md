@@ -1,10 +1,13 @@
 ---
 layout: post
-title:  Spring boot JPA 연습
-category: Backend_Dev.Log
-tags: Springboot
+related_posts:
+  - /backdev-log/springboot/springboot_11/
+title: Spring boot JPA 1탄
+categories: 
+  - backdev-log
+  - springboot
 ---
-# Spring boot JPA 1
+# Spring boot JPA 1탄
 
 ### 프로젝트 생성  
 <img width="484" alt="환경설정" src="https://user-images.githubusercontent.com/107549149/222143551-2478e008-801b-486b-962b-edf60f3d8d51.png">
