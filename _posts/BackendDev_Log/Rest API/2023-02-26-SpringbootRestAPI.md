@@ -1,8 +1,8 @@
 ---
 layout: post
 related_posts:
-  - /backdev-log/Api/Api-3/
-title: HTTP1.1 무엇인가?
+  - /backdev-log/restapi/restapi-3/
+title: Json을 사용하는 이유? 어떻게 사용할까?
 categories: 
   - backdev-log
   - Api
