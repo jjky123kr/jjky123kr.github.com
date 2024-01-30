@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: javascript 내장 함수
-category: Frontend
-tags: javaScript
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
+
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
 ---
-
-# Javascript 내장
-
 ### 내장 함수 종류
 
   alert()  

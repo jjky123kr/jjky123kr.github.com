@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title: javascript 반복문 
-category: Frontend
-tags: javaScript
----
-# Javascript 반복문 
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
 
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
+---
 ## for문
 
 ````html

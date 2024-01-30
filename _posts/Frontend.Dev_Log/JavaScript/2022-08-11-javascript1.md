@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: javascript 산술연산자
-category: Frontend
-tags: javaScript
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
+
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
 ---
-
-# Javascript 연산자1
-
 ### 산술 연산자 :  +, -, /, %(나머지)
 
 * var 변수 선언

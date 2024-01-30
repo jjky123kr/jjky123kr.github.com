@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: javascript 조건식
-category: Frontend
-tags: javaScript
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
+
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
 ---
-
-# Javascript 조건식
-
 ### if 문
 
 예문

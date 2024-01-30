@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title: javascript 함수
-category: Frontend
-tags: javaScript
----
-# Javascript 함수
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
 
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
+---
 ### 함수의 정의
 
 ```html

@@ -1,12 +1,19 @@
 ---
-layout: post
+layout: single
 title: javascript 배열
-category: Frontend
-tags: javaScript
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
+
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
 ---
-
-# Javascript 배열
-
 ## 배열 생성 방법
 1. 방법
 * length: 배열의 크기를 구해주는 속성

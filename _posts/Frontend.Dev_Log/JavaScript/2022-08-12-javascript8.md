@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title: 재귀함수
-category: Frontend
-tags: javaScript
----
-# 재귀함수
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
 
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
+---
 ### 개념
 함수 안에서 자기 자신의 함수를 호출하는 함수
 

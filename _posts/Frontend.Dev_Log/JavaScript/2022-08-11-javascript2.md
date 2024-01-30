@@ -1,11 +1,19 @@
 ---
-layout: post
+layout: single
 title: Javascript 확장 대입 연산자 , 증감 연산자
-category: Frontend
-tags: javaScript
----
-# Javascript 연산자2
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
 
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
+---
 ### 확장대입 연산자 : +=, -=, *=  /=, %=  
 
 ```html

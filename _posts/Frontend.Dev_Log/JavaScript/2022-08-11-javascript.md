@@ -1,10 +1,20 @@
 ---
-layout: post
-title: Javascript 개념 과 특징
-category: Frontend
-tags: javaScript
+layout: single
+title: Javascript
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
+
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
 ---
-## Javascript 개념 과 특징
+## 개념 과 특징
 * 개념 
 1. 자바언어의 특성을 지닌 스크립트언어 이다.  
 2. 브라우저 에서 해석되어지는 프로그램언어이다.  

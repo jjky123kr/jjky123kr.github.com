@@ -1,14 +1,20 @@
 ---
-layout: post
+layout: single
 titel: Javascript 과제 
-category: Frontend
-tags: javaScript
+folder: "Javascript"
+categories: Javascript 
+tags: [blog,Javascript ]
+
+author_profile: true
+sidebar:
+  nav: "main"
+
+toc: ture
+toc_alble: 목록
+toc_icon: "bars"
+toc_sticky: true
 ---
 
-
-# Javascript 과제 
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,7 +42,7 @@ document.write(lotto);
 </script>
 </body>
 </html>
-```
+
 
 
 
