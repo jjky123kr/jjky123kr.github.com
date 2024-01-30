@@ -55,7 +55,7 @@ menu:
   - title:             Archives
     url:               /Archives/
   - title:             BackendDev.Log
-    url:               /backend/
+    url:               /backdev-log/
     submenu: 
       - title:         Java
         url:           /java/
