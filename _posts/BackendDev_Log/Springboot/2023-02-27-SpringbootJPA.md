@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts:
-  - /backdev-log/
+  - /backdev-log/springboot/springboot_10/
 title: Spring boot 에 연동 JPA , ORM 개념
   - backdev-log
   - springboot
