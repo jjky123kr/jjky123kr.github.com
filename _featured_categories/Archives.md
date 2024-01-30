@@ -1,6 +1,5 @@
 ---
 layout: list
-type: category
 title: Archives
 slug: Archives  
 sidebar: true

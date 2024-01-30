@@ -1,6 +1,5 @@
 ---
 layout: list
-type: category
 title: About
 slug: about  
 sidebar: true
