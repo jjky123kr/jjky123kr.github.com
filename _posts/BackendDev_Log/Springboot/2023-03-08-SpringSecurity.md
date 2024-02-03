@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Spring boot Security 비밀해쉬,로그인 
+title:  Spring Secutiry 비밀해쉬화 로그인 기능 구현
 categories: [Springboot,Security]            
 tag:      [blog,Springboot]
 author_profile: true
@@ -13,7 +13,7 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
-### Security 설정 
+# Spring Secutiry 비밀해쉬화 로그인 기능 구현
 
 
 ### pox.xml 에 Security 등록

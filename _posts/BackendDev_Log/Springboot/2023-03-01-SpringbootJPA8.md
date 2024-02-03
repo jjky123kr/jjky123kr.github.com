@@ -2,12 +2,12 @@
 layout: post
 related_posts:
   - /backdev-log/springboot/springboot_11/
-title: Spring boot JPA 1탄
+title: Spring boot JPA 
 categories: 
   - backdev-log
   - springboot
 ---
-# Spring boot JPA 1탄
+# Spring boot JPA  (데이터 베이스 연동, 도메인 설계, 회원 기능 구현)
 
 ### 프로젝트 생성  
 <img width="484" alt="환경설정" src="https://user-images.githubusercontent.com/107549149/222143551-2478e008-801b-486b-962b-edf60f3d8d51.png">

@@ -13,6 +13,8 @@ toc_icon: "bars"
 toc_sticky: true
 ---
 
+# Spring Security 회원 수정 과 session변경
+
 ### UpdateForm 회원 정보 수정 
 
 * principal은 user 의 정보가 담겨 있다. 해당 user의 정보를 보여준다. 

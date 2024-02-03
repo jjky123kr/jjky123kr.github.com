@@ -2,12 +2,12 @@
 layout: post
 related_posts:
   - /backdev-log/springboot/springboot_12/
-title: Spring boot JPA 2탄
+title: Spring boot Ajax 회원가입 
 categories: 
   - backdev-log
   - springboot
 ---
-# Spring boot JPA 2탄
+# Spring boot Ajax 회원가입 
 
 ### 매인 페이지 
 
