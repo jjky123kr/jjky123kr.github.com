@@ -1,19 +1,14 @@
 ---
-layout: single
-titel: Javascript 과제 
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-11/
+title:  Javascript  과제
+categories: 
+  - frontdev-log
+  - javascript
 ---
+
+# Javascript  과제
 
 <!DOCTYPE html>
 <html lang="en">

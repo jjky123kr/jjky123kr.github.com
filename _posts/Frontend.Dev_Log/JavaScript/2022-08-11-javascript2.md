@@ -1,20 +1,15 @@
 ---
-layout: single
-title: Javascript 확장 대입 연산자 , 증감 연산자
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-3/
+title:  Javascript 확장대입 연산자(+=, -=, *=  /=, %= ) , 증감연산자 (++ , --)
+categories: 
+  - frontdev-log
+  - javascript
 ---
-### 확장대입 연산자 : +=, -=, *=  /=, %=  
+# 확장대입 연산자 : +=, -=, *=  /=, %=  
+
+### 예문 (확장 대입 연산자)
 
 ```html
 <!DOCTYPE html>
@@ -43,7 +38,10 @@ toc_sticky: true
 </body>
 </html>
 `````
-### 증감 연산자
+
+# 증감연산자 (++ , --)
+
+### 2. 예문(증감 연산자)
 
 ````html
 <!DOCTYPE html>

@@ -1,21 +1,16 @@
 ---
-layout: single
-title: Javascript
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-1/
+title: Javascript 개념 과 특징
+categories: 
+  - frontdev-log
+  - javascript
 ---
-## 개념 과 특징
-* 개념 
+
+# Javascript 개념 과 특징
+
+## Javascript  개념 
 1. 자바언어의 특성을 지닌 스크립트언어 이다.  
 2. 브라우저 에서 해석되어지는 프로그램언어이다.  
 * 특징
@@ -24,15 +19,16 @@ HTML 문서 사이에 직접 기입하게 된다.
 
 ## 자바스크립트와 자바의 차이점
 
-* 자바스크립트는 브라우저에서 프로그램 코드가 해석된다.
+### =>  자바스크립트는 브라우저에서 프로그램 코드가 해석된다.
+
 1. 자바는 프로그램을 만든 후 반드시 컴파일러로 컴파일한 결과를 브라우저에  
 삽입하기 때문에 미리 컴파일러로 코드를 해석하게 된다.
-2. 자바스크립트는 자바처럼 타입 체크를 철저하게 하지 않는다.
-  자바에서 에러가 발생하면, 에러 메세지가 발생 하지만,  
-  자바스크립트에서는 에러가 발생하면 메세지를 발생 하지 않는다.
-  -> 자바스크립트에서 에러를 찾을 때는 웹페이지 f12 개발자 도구에서   콘솔창에서 확인 
+2. 자바스크립트는 자바처럼 타입 체크를 철저하게 하지 않는다.  
+  자바에서 에러가 발생하면, 에러 메세지가 발생 하지만,    
+  자바스크립트에서는 에러가 발생하면 메세지를 발생 하지 않는다.  
+  > **_자바스크립트에서 에러를 찾을 때는 웹페이지 f12 개발자 도구에서   콘솔창에서 확인_** 
 
-## javascript 출력 유형
+###  javascript 출력 유형
 
 `````html
 1. <script></script>
@@ -45,8 +41,9 @@ HTML 문서 사이에 직접 기입하게 된다.
 3. 주석 단축키: ctrl+shift+/  
 4. 주석해제는 잘 적용이 되지않는다.   
 
-* 함수를 정의를 할때는 head 태그 안에서 script 적용  
-> 그 예외는 body 태그 안에서 사용이 가능하다.   
+###  함수를 정의를 할때는 head 태그 안에서 script 적용  
+> 그 예외는 body 태그 안에서 사용이 가능하다.  
+
 *  자바스크립트 내장객체이다  . 
 * 자바스크립트는 소문자 대문자 구분을 한다.  
 * document  브라우저 내장 객체를 사용한다. 

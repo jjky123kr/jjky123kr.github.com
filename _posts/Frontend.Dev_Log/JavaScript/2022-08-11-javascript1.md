@@ -1,24 +1,20 @@
 ---
-layout: single
-title: javascript 산술연산자
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-2/
+title: javascript  산술 연산자 ( +, -, /, %(나머지))
+categories: 
+  - frontdev-log
+  - javascript
 ---
-### 산술 연산자 :  +, -, /, %(나머지)
 
-* var 변수 선언
-* 1번 예제
-````html
+# javascript  산술 연산자 :  +, -, /, %(나머지)
+
+## var 변수 선언
+
+### 1번 예제
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -48,10 +44,11 @@ document.write("num1% num2=" +result+"<br>");
 </script>
 </body>
 </html>
-``````
-* 2.예제  : 산술 연산자
+```
 
-````html
+### 2.예제  : 산술 연산자
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,7 +70,7 @@ document.write("result="+result);
 </script>
 </body>
 </html>
-``````
+```
 
 
 

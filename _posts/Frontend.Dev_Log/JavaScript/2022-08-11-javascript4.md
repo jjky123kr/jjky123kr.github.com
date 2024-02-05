@@ -1,28 +1,25 @@
 ---
-layout: single
-title: javascript 반복문 
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-5/
+title:  Javascript 반복문
+categories: 
+  - frontdev-log
+  - javascript
 ---
-## for문
+
+# Javascript 반복문
+
+## for문 형식
 
 ````html
 for(초기값; 조건식; 증감식){
   반복 실행 
 }
 `````
-* 1 예문 문제
-사랑해요 메세지 출력10번
+###  1 예문 문제
+
+> 사랑해요 메세지 출력10번
 
 `````html
 <!DOCTYPE html>
@@ -40,8 +37,8 @@ for(초기값; 조건식; 증감식){
 </body>
 </html>
 ``````
-* 2 예문 문제
-1~10까지의 합을 구하는 프로그램 작성
+### 2 예문 문제
+> 1~10까지의 합을 구하는 프로그램 작성
 ````html
 <!DOCTYPE html>
 <html>
@@ -60,8 +57,9 @@ document.write("1~10의 합"+sum);
 </body>
 </html>
 ```````
-* 3. 예문문제
-1~100까지 홀수짝수의 합을 구하는 프로그램 작성
+### 3. 예문문제
+> 1~100까지 홀수짝수의 합을 구하는 프로그램 작성
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -90,10 +88,10 @@ document.write("1~10의 합"+sum);
 </body>
 </html>
 ````
-### while 문
+## while 문
 
-* 1. 예문 문제
-사랑해요 메세지 10번 출력
+###  1. 예문 문제
+> 사랑해요 메세지 10번 출력
 
 ````html
 <!DOCTYPE html>
@@ -116,8 +114,9 @@ while(i<=10){
 </body>
 </html>
 ``````
-* 2.예문 
-1~100 까지의 홀수, 짝수의 합을 구하는 프로그램 작성?
+###  2.예문 
+
+> 1~100 까지의 홀수, 짝수의 합을 구하는 프로그램 작성?
 
 ````html
 <!DOCTYPE html>
@@ -149,8 +148,8 @@ document.write("1~100 까지 짝수의 합"+even+"<br>");
 </body>
 </html>
 ``````
-* 3.예문 문제
-키보드로 원하는 단을 입력 받아서 구구단1개를 출력하는 프로그램 작성?
+### 3.예문 문제
+> 키보드로 원하는 단을 입력 받아서 구구단1개를 출력하는 프로그램 작성?
 
 ````html
 <!DOCTYPE html>
@@ -172,8 +171,8 @@ while(i<=9){        // 조건식
 </body>
 </html>
 ``````
-* 4.예문 문제
-while 문  이용해서 구구단2~9단 출력하는 프로그램 작성
+###  4.예문 문제
+> while 문  이용해서 구구단2~9단 출력하는 프로그램 작성
 
 ```html
 <!DOCTYPE html>
@@ -225,12 +224,14 @@ do{
 </body>
 </html>
 `````
-2.예문 문제
-키보드로 수식(10+20)을 출력하는 프로그램 작성하세요?
-* 함수()우선순위 로 출력이 된다.  
- document.write 보다 prompt가 우선순위 이라서   루트가 계속 돌아간다.  
- * eval(): 문자형식의 수식을 연산해주는 함수   
+### 2.예문 문제
+> 키보드로 수식(10+20)을 출력하는 프로그램 작성하세요?
+
+1. 함수()우선순위 로 출력이 된다.  
+ document.write 보다 prompt가 우선순위 이라서 루트가 계속 돌아간다.  
+ 2. eval(): 문자형식의 수식을 연산해주는 함수   
  eval("10+20")-->30
+
 `````html
 <!DOCTYPE html>
 <html>

@@ -1,40 +1,29 @@
 ---
-layout: single
-title: javascript 내장 함수
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-7/
+title:  Javascript 내장 함수
+categories: 
+  - frontdev-log
+  - javascript
 ---
-### 내장 함수 종류
+#
+  Javascript 내장 함수 종류
 
-  alert()  
+  |  함수   |형식   |   
+  |---------|-------|
+  |alert()  |       |
+  |confirm()|       |
+  |prompt() |       |
+  |parseInt()|parseInt("3.14") -->  3|
+  |parseFloat()| parseFloat("10.5") -->  10.5 |
+  |Number()| Number("42.195") -->  42.195  |
+  |String()|String(1000) --> "1000"|
+  | eval()|eval("10+20") -->  30 |
+  | isNaN()| Not a Number 문자가 포함되면 true를 반환함.|
 
-  confirm()
-  
-  prompt()  
 
-  parseInt() : parseInt("3.14") -->  3  
-
-  parseFloat(): parseFloat("10.5") -->  10.5  
-
-  Number() : Number("42.195") -->  42.195  
-
-  String() : String(1000) --> "1000"
-
-  eval() :eval("10+20") -->  30  
-
-  isNaN(): Not a Number 문자가 포함되면 true를 반환함.  
-
-* 내장 함수 예문
+### 내장 함수 예문
 
 `````html
 <!DOCTYPE html>

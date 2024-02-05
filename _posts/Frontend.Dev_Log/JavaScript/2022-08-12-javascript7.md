@@ -1,42 +1,41 @@
 ---
-layout: single
-title: javascript 함수
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-8/
+title:  Javascript  함수 호출
+categories: 
+  - frontdev-log
+  - javascript
 ---
-### 함수의 정의
 
-```html
+# Javascript  함수() 호출 
 
-function 함수 이름(매개 변수1. 매개변수2,.....){
+## 함수의 형식
+
+```js
+function 함수 이름(매개 변수1. 매개변수2,..){
         수행할 문장
 }
-````
-### 함수 호출 방법 1.
+
+```
+## 함수 호출 방법 1.
+
 * head 태그 안에 사용자 정의 함수 
 * 함수명은 대.소문자 구분이 없다.
 *  함수 호출은 body태그 안에서 호출한다.
 
-### 함수 호출 방법2.
+## 함수 호출 방법2.
 
-이벤트를 이용해서 함수 호출  (주로 많이 사용)  
-벤트명에다 on을 붙여서 이벤트 핸들러를 생성  
-이벤트 핸드러(클릭) : onClick  
-전송기능이 없는 것으로 할때 click 이벤트 발생   
-on: 소문자,이벤트명:첫글자 대문자 Click  
+* 이벤트를 이용해서 함수 호출 (주로 많이 사용)  
+* 이벤트명에다 on을 붙여서 이벤트 핸들러를 생성  
+* 이벤트 핸들러(클릭) : onClick  
+* 전송기능이 없는 것으로 할때 click 이벤트 발생   
+* on: 소문자,이벤트명:첫글자 대문자 Click  
 
 
-### 매개변수가 없는 함수의 정의
+## 매개변수가 없는 함수의 정의
+
+### 예문 
 
 ````html
 <!DOCTYPE html>
@@ -62,10 +61,12 @@ check();   //body 태그 안에서 함수 호출
 </body>
 </html>
 ```
-### 매개변수가 있는 함수의 정의
-// 매개 변수 가 있는 함수 정의  
-// 값을 돌려줄때 return
-예문 
+## 매개변수가 있는 함수의 정의
+
+> **_값을 돌려줄때 return_**
+
+### 예문 
+
 ````html
 <!DOCTYPE html>
 <html>
@@ -92,9 +93,9 @@ var result=ask("찬성하면 확인 버튼, 반대하면 취소 버튼"); //함�
 </body>
 </html>
 ````
-### 매개변수가 2개 일때
+## 매개변수가 2개 일때
 
-* 예문 문제: 최대값 과 최솟값 구하는 함수
+### 예문 문제: 최대값 과 최솟값 구하는 함수
 
 ````html
 
@@ -136,9 +137,9 @@ document.write("min:"+min+"<br>");
 </body>
 </html>
 ``````
-### 내장 함수  사용자의 정의 
+## 내장 함수  사용자의 정의 
 
-예문 1.
+### 예문 1.
 
 ````html
 <!DOCTYPE html>
@@ -177,7 +178,7 @@ document.write("min:"+min+"<br>");
 </body>
 </html>
 ``````
-예문2. 
+### 예문2. 
 
 ````html
 <!DOCTYPE html>
@@ -212,6 +213,39 @@ document.write("min:"+min+"<br>");
 	<input type="button" value="곱하기" onClick="mul()">
 	<input type="button" value="나누기" onClick="div()">
 </form>
+
+</body>
+</html>
+``````
+## 함수 안에서 자기 자신의 함수를 호출하는 함수
+
+### 예문 
+
+``````html
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script>
+  function f(n){
+	  if(n>1){
+		  var result =n* f(n-1); // n!= n*f(n-1)*f(n-2)*f(n-3).....1
+		                         // 3!=3*(3-1)*(3-2)*(3-3)..1
+		  return result;
+     }else{
+	     return n;
+    }
+}
+
+</script>
+</head>
+<body>
+<script >
+
+var n=prompt("팩토리얼을 구할 정수를 입력하세요?","");
+document.write(n+"!="+f(n));
+</script>
 
 </body>
 </html>

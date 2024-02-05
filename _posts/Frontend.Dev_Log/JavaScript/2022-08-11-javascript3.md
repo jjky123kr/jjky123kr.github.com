@@ -1,20 +1,16 @@
 ---
-layout: single
-title: javascript 비교, 조건 ,논리 연산자
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-4/
+title:  Javascript 연산자 (비교,논리 ,조건 연산자)
+categories: 
+  - frontdev-log
+  - javascript
 ---
-### 비교 연산자 :  >, >=, < , <=, ==, !=
+
+# Javascript 연산자 (비교,논리 ,조건 연산자)
+
+##  Javascript 비교 연산자 (>, >=, < , <=, ==, != )
 
 ````html
 <!DOCTYPE html>
@@ -91,7 +87,7 @@ if(n1>n2){           //문자형 변수끼리 비교연산을 할 수 있다.
 </body>
 </html>
 `````
-### 조건 연산자
+## 조건 연산자
 * 변수 =(조건식) ?  값1: 값2;
   조건식이 참 이면 값1 리턴 , 조건식이 거짓 이면 값2 리턴
 ````html
@@ -122,7 +118,7 @@ document.write("min="+min+"<br>");
 </body>
 </html>
 `````
-### 논리 연산자 : 논리 연산자 : && , || , ! 
+## 논리 연산자 : 논리 연산자 : && , || , ! 
 
 * 문제 
  5과목 점수를 입력 받아서 합격 불합격을 판별하는 

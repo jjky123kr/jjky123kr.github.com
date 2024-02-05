@@ -1,22 +1,18 @@
 ---
-layout: single
-title: javascript 조건식
-folder: "Javascript"
-categories: Javascript 
-tags: [blog,Javascript ]
-
-author_profile: true
-sidebar:
-  nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /frontdev-log/javascript/javascript-6/
+title:  Javascript 조건문
+categories: 
+  - frontdev-log
+  - javascript
 ---
-### if 문
 
-예문
+# Javascript 조건문
+
+## if 문
+
+### 1. 예문
 
 ```html
 
@@ -38,8 +34,9 @@ if(min>=60){
 </body>
 </html>
 ````
-2. if ~ else 문
-예문
+## 2. if ~ else 문
+
+### 1. 예문
 
 ````html
 <!DOCTYPE html>
@@ -67,8 +64,9 @@ if(num%2==0){
 </body>
 </html>
 ````
-3. if ~lese if ~ else 
-예문 문제
+## 3. if ~lese if ~ else 
+
+### 1. 예문 문제
 
 `````html
 <!DOCTYPE html>
@@ -106,8 +104,10 @@ if(s>=90){
 </body>
 </html>
 ``````
-### switch ~ cese 문
-1.예문
+## switch ~ cese 문
+
+### 1.예문
+
 * location 객체는 window객체 하위 객체이다.  
   주로 페이지를 이동시켜준다. 
 * location.href="http://www.oracle.com;" 
@@ -147,10 +147,12 @@ var site = prompt("네이버,다음,네이트,구글중에서 즐겨 사용하�
 </html>
 `````
 
-2. 예문 문제  
-키보드로 입력한 0~100 사이에 점수를 입력받아서   학점을 출력하는 프로그램 작성?  
+## 2. 예문 문제  
+
+> 키보드로 입력한 0~100 사이에 점수를 입력받아서   학점을 출력하는 프로그램 작성?  
  swith~ case 문 으로 작성 하기 ?  
- * parseInt("9.5")---> 9 
+
+ parseInt("9.5")---> 9   
  A학점:90~100  
  B학점:80~89  
  C점:70~79  
