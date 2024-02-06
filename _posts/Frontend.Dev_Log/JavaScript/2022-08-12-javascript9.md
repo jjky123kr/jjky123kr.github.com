@@ -2,13 +2,13 @@
 layout: post
 related_posts:
   - /frontdev-log/javascript/javascript-9/
-title:  Javascript  배열
+title:  Javascript  Array(배열)
 categories: 
   - frontdev-log
   - javascript
 ---
 
-##  Javascript 배열 생성 
+##  Javascript Array(배열)
 
 ### 1. 방법 
 
