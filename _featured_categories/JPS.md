@@ -1,8 +1,8 @@
 ---
 layout: list
-title: JSP
+title: JPS
 slug: jsp
 order: 6
 description: >
-  Anything about JSP
+  Anything about JPS
 ---
