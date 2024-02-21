@@ -1,18 +1,13 @@
 ---
-layout: single
-title:  Spring boot Security 회원 수정 과 session변경  
-categories: [Springboot,Security]           
-tag:      [blog,Springboot]
-author_profile: true
-sidebar:
-    nav: "main"
+layout: post
+related_posts:
+  - /backdev-log/springboot/springboot_14/
+title: Spring Security 회원 수정 과 session변경
 
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+categories: 
+  - backdev-log
+  - springboot
 ---
-
 # Spring Security 회원 수정 과 session변경
 
 ### UpdateForm 회원 정보 수정 

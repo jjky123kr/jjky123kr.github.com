@@ -1,16 +1,11 @@
 ---
-layout: single
-title:  Spring Secutiry 비밀해쉬화 로그인 기능 구현
-categories: [Springboot,Security]            
-tag:      [blog,Springboot]
-author_profile: true
-sidebar:
-    nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /backdev-log/springboot/springboot_13/
+title: Spring Secutiry 비밀해쉬화 로그인 기능 구현
+categories: 
+  - backdev-log
+  - springboot
 ---
 
 # Spring Secutiry 비밀해쉬화 로그인 기능 구현

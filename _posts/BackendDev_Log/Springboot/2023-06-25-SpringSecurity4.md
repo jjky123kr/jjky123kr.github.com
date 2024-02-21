@@ -1,19 +1,19 @@
 ---
-layout: single
-title:  Spring Security-OAuth 구글 , 페이스북 로그인
-categories: [Springboot,Security]             
-tag:      [blog,Springboot]
-author_profile: true
-sidebar:
-    nav: "main"
+layout: post
+related_posts:
+  - /backdev-log/springboot/springboot_14/
+title: Spring Security-OAuth 구글 , 페이스북 로그인
 
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+categories: 
+  - backdev-log
+  - springboot
 ---
 
-# 구글 로그인
+
+# Spring Security-OAuth 이용하여 구글 ,페이스북 로그인
+
+
+## 구글 로그인
 
 ### User 모델 
 
