@@ -2,7 +2,7 @@
 layout: list
 title: JPS
 slug: jsp  
-order: 6
+order: 5
 description: >
   Anything about 
 ---
