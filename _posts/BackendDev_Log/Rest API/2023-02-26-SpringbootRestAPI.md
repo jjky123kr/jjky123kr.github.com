@@ -5,7 +5,7 @@ related_posts:
 title: Json을 사용하는 이유? 어떻게 사용할까?
 categories: 
   - backdev-log
-  - Api
+  - restapi
 ---
 
 ### Json을 사용하는 이유? 어떻게 사용할까?
