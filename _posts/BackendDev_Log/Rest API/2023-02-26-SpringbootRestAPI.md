@@ -1,7 +1,7 @@
 ---
 layout: post
 related_posts:
-  - /backdev-log/restapi/restapi-3/
+  - /backdev-log/restapi/restapi-4/
 title: Json을 사용하는 이유? 어떻게 사용할까?
 categories: 
   - backdev-log
