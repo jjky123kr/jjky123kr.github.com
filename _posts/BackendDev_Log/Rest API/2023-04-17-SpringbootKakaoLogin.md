@@ -1,12 +1,14 @@
 ---
 layout: post
 related_posts:
-  - /backdev-log/restapi/restapi-4/
+  - /backdev-log/restapi/restapi-3/
 title: 카카오 로그인 API
 categories: 
   - backdev-log
-  - Api
+  - restapi
 ---
+# 카카오 로그인 API
+
 ### 카카오 로그인 API 환경 및 문서 참고
 <https://developers.kakao.com/>
 
