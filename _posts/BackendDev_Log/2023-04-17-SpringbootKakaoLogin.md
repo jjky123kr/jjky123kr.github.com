@@ -1,16 +1,11 @@
 ---
-layout: single
-title:  Spring boot 카카오API 로그인
-categories: [Springboot,Security]              
-tag:      [blog,Springboot]
-author_profile: true
-sidebar:
-    nav: "main"
-
-toc: ture
-toc_alble: 목록
-toc_icon: "bars"
-toc_sticky: true
+layout: post
+related_posts:
+  - /backdev-log/restapi/restapi-4/
+title: 카카오 로그인 API
+categories: 
+  - backdev-log
+  - Api
 ---
 ### 카카오 로그인 API 환경 및 문서 참고
 <https://developers.kakao.com/>
